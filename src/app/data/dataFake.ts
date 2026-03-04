@@ -1,10 +1,5 @@
 export const dataFake = [
-  {
-    "id":"1",
-    "title": "A MORTE DO DEMÔNIO - A ASCENSÃO",
-    "description": "A Morte do Demônio: A Ascensão é do mesmo produtor dos sucessos O Homem nas Trevas (2016), Poltergeist - O Fenômeno (2015) e Possessão (2012). Ellie (Alyssa Sutherland) vive com seus filhos Danny (Morgan Davies), Bridget (Gabrielle Echols) e a caçula Kassie num pequeno apartamento, em Los Angeles, California. Para sua surpresa, sua irmã Beth (Lily Sullivan), que andava distante, foi visitá-los, mas o que poderia ser motivo de muitas recordações acaba se transformando num terrível pesadelo. Afinal, o Livro dos Mortos foi reencontrado e com ele novos demônios foram evocados. Agora, Ellie está possuída e as entidades malignas só pensam numa maneira mais sanguinária de destruir essa família.",
-    "photoCover":"https://www.mortedodemonio.com.br/images/share.jpg"
-  },
+ 
   {
     "id":"2",
     "title": "Nova saga de Velozes e furiosos",
